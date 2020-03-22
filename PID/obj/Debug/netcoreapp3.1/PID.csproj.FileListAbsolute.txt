@@ -1,0 +1,11 @@
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.exe
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.deps.json
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.runtimeconfig.json
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.runtimeconfig.dev.json
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.dll
+C:\Users\javie\source\repos\PID\PID\bin\Debug\netcoreapp3.1\PID.pdb
+C:\Users\javie\source\repos\PID\PID\obj\Debug\netcoreapp3.1\PID.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\PID\PID\obj\Debug\netcoreapp3.1\PID.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\PID\PID\obj\Debug\netcoreapp3.1\PID.AssemblyInfo.cs
+C:\Users\javie\source\repos\PID\PID\obj\Debug\netcoreapp3.1\PID.dll
+C:\Users\javie\source\repos\PID\PID\obj\Debug\netcoreapp3.1\PID.pdb
